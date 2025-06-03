@@ -1,4 +1,4 @@
-### 1. What is the purpose of the <head> tag in an HTML document, and what is one example of an element you might find inside it?
+### 1. What is the purpose of the `<head>` tag in an HTML document, and what is one example of an element you might find inside it?
 
 - The `<head>` element in an HTML document serves as a container for **metadata**—that is, data *about* the HTML document itself, rather than the content that is displayed on the page. With the primary exception of the `<title>` element, the information within the `<head>` is not directly rendered in the browser's content area.
 - The `<head>` provides the foundational context, metadata, and resource links that govern the presentation and behavior of the content defined in the `<body>`.
